@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="searchbar_hint">Looking for Someone?</string>
+    <string name="username">username</string>
+    <string name="name">name</string>
+    <string name="amount_followers">xxx Followers</string>
+    <string name="amount_following">xxx Following</string>
+    <string name="followers_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="design_by">Designed by AKANGROMEO</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">favorite</string>
+    <string name="theme">theme</string>
+</resources>
